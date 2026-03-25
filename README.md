@@ -1,4 +1,4 @@
-🚗 MobileGarage
+# 🚗 MobileGarage
 
 MobileGarage is a mobile application built for car enthusiasts to manage their vehicles, track modifications, document build progress, and connect with other owners.
 
